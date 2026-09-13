@@ -20,7 +20,7 @@ HISTORY_FILE = os.path.join(DATA_DIR, "posted_history.json")
 
 TELEGRAM_API = "https://api.telegram.org/bot{token}/{method}"
 GROQ_API = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.3-70b-versatile"  # free tier on Groq as of project setup; swap if Groq renames/retires it
+GROQ_MODEL = "openai/gpt-oss-120b"  # updated 2026-09: llama-3.3-70b-versatile was decommissioned by Groq
 
 # Shared session with automatic retries (handles transient network/5xx hiccups
 # on GitHub's free runners without failing the whole job).
