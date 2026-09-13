@@ -55,7 +55,7 @@ def _tg(method, **params):
 
 
 def send_message(chat_id, text, parse_mode="HTML"):
-    return _tg("sendMessage", chat_id=chat_id, text=text, parse_mode=parse_mode, disable_web_page_preview=False)
+    return _tg("sendMessage", chat_id=chat_id, text=text, parse_mode=parse_mode, disable_web_page_preview=True)
 
 
 def get_updates(offset=None):
