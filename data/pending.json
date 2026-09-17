@@ -1,1 +1,23 @@
-{}
+{
+  "created_at": "2026-09-17T06:19:38.467890+00:00",
+  "picks": [
+    {
+      "title": "TabPFN‑3.5: مدل جدولی رایگان که برترین راه‌حل اوتو را شکست می‌دهد",
+      "description": "TabPFN‑3.5 یک مدل پایه جدول‌محور است که فقط با داده‌های مصنوعی پیش‌آموزش دیده و بدون تنظیمات خاص، عملکردی بهتر از راه‌حل برنده مسابقه Otto در Kaggle ارائه می‌دهد. می‌توانید با یک فراخوانی ساده یا رابط scikit‑learn از آن استفاده کنید و به‌سرعت پیش‌بینی‌های طبقه‌بندی یا رگرسیون بگیرید.",
+      "source_name": "MarkTechPost",
+      "source_link": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/"
+    },
+    {
+      "title": "Paper2Agent: تبدیل مقاله‌های علمی به عامل‌های هوشمند",
+      "description": "Paper2Agent توسط پژوهشگران استنفورد توسعه یافته و امکان تبدیل متن یک مقاله علمی به یک عامل هوش مصنوعی فعال را فراهم می‌کند. این عامل می‌تواند نتایج مقاله را بازتولید کرده و بر روی داده‌های جدید اجرا شود؛ امتیاز ۹۱٫۲٪ در آزمون ۳۰۰ سؤال از ۷۴ مقاله نشان‌دهنده دقت بالای آن است.",
+      "source_name": "MarkTechPost",
+      "source_link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/"
+    },
+    {
+      "title": "خط لوله سرورلس حذف اطلاعات حساس با Bedrock",
+      "description": "در این راهنمای AWS، نحوه ساخت یک خط لوله سرورلس برای شناسایی و حذف اطلاعات شخصی (PII) از اسناد اسکن‌شده با استفاده از Amazon Bedrock Data Automation، Step Functions و Lambda توضیح داده شده است. با یک الگوی Blueprint می‌توانید به‌صورت خودکار فیلدهای حساس را شناسایی و با دقت بالا حذف کنید.",
+      "source_name": "AWS ML Blog",
+      "source_link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/"
+    }
+  ]
+}
