@@ -1,23 +1,23 @@
 {
-  "created_at": "2026-09-17T06:19:38.467890+00:00",
+  "created_at": "2026-09-18T06:18:34.717839+00:00",
   "picks": [
     {
-      "title": "TabPFN‑3.5: مدل جدولی رایگان که برترین راه‌حل اوتو را شکست می‌دهد",
-      "description": "TabPFN‑3.5 یک مدل پایه جدول‌محور است که فقط با داده‌های مصنوعی پیش‌آموزش دیده و بدون تنظیمات خاص، عملکردی بهتر از راه‌حل برنده مسابقه Otto در Kaggle ارائه می‌دهد. می‌توانید با یک فراخوانی ساده یا رابط scikit‑learn از آن استفاده کنید و به‌سرعت پیش‌بینی‌های طبقه‌بندی یا رگرسیون بگیرید.",
+      "title": "TauGrid؛ استک منبع باز برای بارگذاری GPUهای AI در کوبرنتس",
+      "description": "Microsoft TauGrid به‌صورت منبع باز منتشر شد و تمام اجزای لازم برای مدیریت بارهای کاری GPU در کلاسترهای کوبرنتس را در یک بسته Helm فراهم می‌کند: CLI tau، صف‌بندی Kueue، ارکستراسیون KubeRay، و مانیتورینگ سلامت نودها. نصب فقط با یک دستور انجام می‌شود و می‌تواند روی هر کلاستر Kubernetes 1.30+ با گره‌های GPU اجرا شود. این ابزار برای پژوهشگران و استارتاپ‌های هوش مصنوعی که به پردازش مقیاس‌پذیر نیاز دارند، هزینه‌ای ندارد.",
       "source_name": "MarkTechPost",
-      "source_link": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/"
+      "source_link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/"
     },
     {
-      "title": "Paper2Agent: تبدیل مقاله‌های علمی به عامل‌های هوشمند",
-      "description": "Paper2Agent توسط پژوهشگران استنفورد توسعه یافته و امکان تبدیل متن یک مقاله علمی به یک عامل هوش مصنوعی فعال را فراهم می‌کند. این عامل می‌تواند نتایج مقاله را بازتولید کرده و بر روی داده‌های جدید اجرا شود؛ امتیاز ۹۱٫۲٪ در آزمون ۳۰۰ سؤال از ۷۴ مقاله نشان‌دهنده دقت بالای آن است.",
-      "source_name": "MarkTechPost",
-      "source_link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/"
+      "title": "یادگیری درسی لایه‌به‌لایه برای فشرده‌سازی مؤثر LLMها",
+      "description": "در مقالهٔ جدیدی روی arXiv، پژوهشگران روش «یادگیری درسی لایه‌به‌لایه» را برای فشرده‌سازی مدل‌های زبانی بزرگ معرفی کردند. این تکنیک با شروع از لایه‌های ساده‌تر و تدریجاً انتقال به لایه‌های پیچیده‌تر، انتقال دانش از مدل معلم به دانش‌آموز را بهبود می‌بخشد و سرعت فشرده‌سازی را افزایش می‌دهد. نتایج نشان می‌دهد می‌توان کیفیت مدل‌های فشرده را بدون کاهش چشمگیر عملکرد حفظ کرد.",
+      "source_name": "arXiv",
+      "source_link": "https://arxiv.org/abs/2609.19213"
     },
     {
-      "title": "خط لوله سرورلس حذف اطلاعات حساس با Bedrock",
-      "description": "در این راهنمای AWS، نحوه ساخت یک خط لوله سرورلس برای شناسایی و حذف اطلاعات شخصی (PII) از اسناد اسکن‌شده با استفاده از Amazon Bedrock Data Automation، Step Functions و Lambda توضیح داده شده است. با یک الگوی Blueprint می‌توانید به‌صورت خودکار فیلدهای حساس را شناسایی و با دقت بالا حذف کنید.",
-      "source_name": "AWS ML Blog",
-      "source_link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/"
+      "title": "OpenAI چارچوب افشای عدم‌هم‌راستایی مدل‌ها را معرفی کرد",
+      "description": "OpenAI چارچوب جدیدی برای گزارش مشکلات عدم‌هم‌راستایی مدل‌های هوش مصنوعی قبل از رفع آن‌ها ارائه داد. این چارچوب شامل سه مسیر بررسی و شش گزارش حادثهٔ واقعی از آموزش تقویتی (RL) است که شفافیت و مسئولیت‌پذیری را در توسعه مدل‌ها تقویت می‌کند. این گام نشان‌دهندهٔ تمرکز بیشتر صنعت بر ایمنی و اخلاق در هوش مصنوعی است.",
+      "source_name": "MarkTechPost",
+      "source_link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/"
     }
   ]
 }
